@@ -1,5 +1,5 @@
 /**
- * Storage Controller for handling LocalStorage operations (Mock Database)
+ * Storage Controller for handling LocalStorage operations (Mock)
  */
 
 class Storage {
