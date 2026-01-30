@@ -1,5 +1,5 @@
 /**
- * main Application Logic for Driver Dashboard
+ * main Application for Driver Dashboard
  */
 
 document.addEventListener('DOMContentLoaded', () => {
